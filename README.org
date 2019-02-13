@@ -1,3 +1,2 @@
 * What is this
-* What is this
 A port of an assignment I had to do for college to mono.
